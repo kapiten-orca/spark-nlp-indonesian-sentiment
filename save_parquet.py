@@ -40,6 +40,6 @@ df.groupBy("label").count().show()
 # Menyimpan paraquet dengan data yang sudah standar
 df.write.mode("overwrite").parquet("data/processed/reviews.parquet")
 
-print("✅ Clean Parquet saved successfully")
+print("Clean Parquet saved successfully")
 
 spark.stop()
