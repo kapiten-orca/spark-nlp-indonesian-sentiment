@@ -1,5 +1,5 @@
 venv_machine_learning/
 label_encoding.py
-prepocess.py
+preprocess.py
 models/
 .vscode/

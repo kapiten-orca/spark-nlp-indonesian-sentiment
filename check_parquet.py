@@ -39,7 +39,7 @@ def main():
 
     # Menampilkan jumlah baris
     total_rows = df.count()
-    print(f"\n📊Total rows: {total_rows}")
+    print(f"\nTotal rows: {total_rows}")
 
     if total_rows == 0:
         print(" Dataset is empty")
