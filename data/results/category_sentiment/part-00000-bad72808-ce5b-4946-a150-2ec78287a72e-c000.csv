@@ -1,0 +1,59 @@
+Category,predicted_sentiment,count
+Beauty,Positive,99
+Health,Negative,103
+Other Products,Negative,119
+Property,Positive,39
+Movies and Music,Negative,98
+Body Care,Negative,123
+Other Products,Positive,81
+Books,Positive,95
+Books,Negative,105
+Household,Positive,103
+Automotive,Negative,119
+Sport,Negative,116
+Tour and Travel,Positive,76
+Camera,Positive,95
+Automotive,Positive,81
+Muslim Fashion,Positive,99
+Body Care,Positive,77
+Toys and Hobbies,Positive,81
+Kids and Baby Fashion,Negative,107
+Precious Metal,Positive,78
+Phones and Tablets,Negative,98
+Camera,Negative,105
+Health,Positive,97
+Women's Fashion,Positive,95
+Animal Care,Positive,81
+Carpentry,Negative,116
+Household,Negative,97
+Men's Fashion,Positive,103
+Mother and Baby,Positive,101
+Food and Drink,Negative,120
+Phones and Tablets,Positive,102
+Sport,Positive,84
+Precious Metal,Negative,2
+Gaming,Positive,98
+Tour and Travel,Negative,4
+Beauty,Negative,101
+Toys and Hobbies,Negative,119
+Women's Fashion,Negative,105
+Movies and Music,Positive,102
+Party Supplies and Craft,Negative,120
+Computers and Laptops,Negative,120
+Animal Care,Negative,119
+Muslim Fashion,Negative,101
+Carpentry,Positive,84
+Kids and Baby Fashion,Positive,93
+Gaming,Negative,102
+Mother and Baby,Negative,99
+Office & Stationery,Positive,81
+Men's Fashion,Negative,97
+Kitchen,Positive,73
+Electronics,Positive,97
+Electronics,Negative,103
+Property,Negative,1
+Computers and Laptops,Positive,80
+Food and Drink,Positive,80
+Office & Stationery,Negative,119
+Party Supplies and Craft,Positive,80
+Kitchen,Negative,127
